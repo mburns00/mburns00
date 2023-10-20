@@ -2,7 +2,7 @@
 
 👀 I’m interested in Cybersecurity, Hardware Systems Upgrading, Software Performance Enhancement, and IT Support.
 
-## 👨‍💻 Cybersecurity & Networking Projects
+## 👨‍💻 Cybersecurity, Networking & Coding Projects
 
 - **Cybersecurity Projects**
   - [Active Directory Home Lab](https://github.com/)
@@ -10,7 +10,7 @@
 - **Designed Networks**
   - [Image Analysis Middleware](https://github.com/)
   
-- ***Python Projects***
+- **Coding Projects**
   - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/)
 
 ## 🌱 Proficiency
