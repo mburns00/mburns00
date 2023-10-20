@@ -10,17 +10,6 @@
 - **Designed Networks**
   - [Image Analysis Middleware](https://github.com/)
   
-- **PowerShell**
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
-  - [JWipe (Disk Wiping Utility)](https://github.com/)
-  - [Active Directory Bulk User Creation](https://github.com/)
-  - [FIM (File Integrity Monitor)](https://github.com/)
-  
-- **C# (.NET Desktop Applications)**
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/)
-  - [Keylogger with Email Capability](https://github.com/)
-  
 - **Python Projects**
   - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/)
 
