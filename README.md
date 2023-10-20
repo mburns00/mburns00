@@ -4,13 +4,13 @@
 
 ## 👨‍💻 Cybersecurity & Networking Projects
 
-- **Cybersecurity**
-  - [Practicing DS & Algos in Python](https://github.com/)
+- **Cybersecurity Projects**
+  - [Active Directory Home Lab](https://github.com/)
   
 - **Designed Networks**
   - [Image Analysis Middleware](https://github.com/)
   
-- **Python Projects**
+- ***Python Projects***
   - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/)
 
 ## 🌱 Proficiency
