@@ -8,7 +8,7 @@
   - [Practicing DS & Algos in Python](https://github.com/)
   
 - **Designed Networks**
-  - [Image Analysis Middleware](https://github.com/) _(Potentially NSFW)_
+  - [Image Analysis Middleware](https://github.com/)
   
 - **PowerShell**
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
