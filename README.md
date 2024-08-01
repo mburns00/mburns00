@@ -5,8 +5,6 @@
   <img alt="Coding" width="400" src="https://camo.githubusercontent.com/57fa48284a010d95230eca56ca861b51ba47faa70c06dab4ddd75edb6c149cd3/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f64612f61632f66616461616363626534326265373633393362333431303137623733353336372e676966">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mburns00&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-
 ### 🔎 Table of Contents
 - [About Me](#about-me)
 - [Skills](#skills)
