@@ -28,7 +28,7 @@
 ### Projects
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/mburns00?tab=repositories)
 
-### Contact
+### Direct Contact
 - 📫 How to reach me: **MatthewKBurns00@gmail.com**
 
 ### Connect with Me
