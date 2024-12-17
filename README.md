@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matthew Burns (MBurns00)</h1>
+<h1 align="center">Hi, I'm Matthew Burns (MBurns00)</h1>
 <p align="center">I hold a Bachelor of Information Technology with a major in Cybersecurity and Technology, and I am CompTIA Security+ (601) certified, specializing in Network Analysis and SOC operations. Dedicated to expanding my knowledge in Cybersecurity and DevOps, I am currently pursuing multiple certifications within the field.</p>
 
 ### 🔎 Table of Contents
@@ -10,13 +10,13 @@
 - [Languages and Tools](#languages-and-tools)
 
 ### About Me
-- 🔭 I’m currently working on **Personal Portfolio**
-- 🌱 I’m currently learning **cPanel & WHM Certifications**
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/mburns00?tab=repositories)
-- 💬 Ask me about **IT, Cybersecurity, Networking**
-- 📫 How to reach me: **MatthewKBurns00@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1OnTICjX8zGtyDzX5su3pCkDxMiEB18UB/view?usp=sharing)
-- ⚡ Fun fact: **I love playing Golf.**
+- I’m currently working on **Personal Portfolio**
+- I’m currently learning **cPanel & WHM Certifications**
+- All of my projects are available at [My Repositories](https://github.com/mburns00?tab=repositories)
+- Ask me about **IT, Cybersecurity, Networking**
+- How to reach me: **MatthewKBurns00@gmail.com**
+- Know about my experiences: [My Resume](https://drive.google.com/file/d/1OnTICjX8zGtyDzX5su3pCkDxMiEB18UB/view?usp=sharing)
+- Fun fact: **I love playing Golf.**
 
 ### Skills
 - Cybersecurity
@@ -26,10 +26,10 @@
 - Technical Assistance
 
 ### Projects
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/mburns00?tab=repositories)
+- All of my projects are available at [My Repositories](https://github.com/mburns00?tab=repositories)
 
 ### Direct Contact
-- 📫 How to reach me: **MatthewKBurns00@gmail.com**
+- How to reach me: **MatthewKBurns00@gmail.com**
 
 ### Connect with Me
 <p align="left">
