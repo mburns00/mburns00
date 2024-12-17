@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matthew Burns (MBurns00)</h1>
 <p align="center">I hold a Bachelor of Information Technology with a major in Cybersecurity and Technology, and I am CompTIA Security+ (601) certified, specializing in Network Analysis and SOC operations. Dedicated to expanding my knowledge in Cybersecurity and DevOps, I am currently pursuing multiple certifications within the field.</p>
 
-### 🔎 Table of Contents
+###  Table of Contents
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Projects](#projects)
