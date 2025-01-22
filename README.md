@@ -13,10 +13,8 @@
 - I’m currently working on **Master of Cybersecurity and a SOC Certificate**
 - I have multiple **cPanel & WHM Certifications**
 - All of my projects are available at [My Repositories](https://github.com/mburns00?tab=repositories)
-- Ask me about **IT, Cybersecurity, Networking**
-- How to reach me: **MatthewKBurns00@gmail.com**
 - Know about my experiences: [My Resume](https://drive.google.com/file/d/1OnTICjX8zGtyDzX5su3pCkDxMiEB18UB/view?usp=sharing)
-- Fun fact: **I love playing Golf.**
+- Fun fact: **I love playing Golf and Video Games.**
 
 ### Skills
 - Cybersecurity
