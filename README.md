@@ -11,7 +11,7 @@
 
 ### About Me
 - I’m currently working on **Personal Portfolio**
-- I’m currently learning **cPanel & WHM Certifications**
+- I have multiple **cPanel & WHM Certifications**
 - All of my projects are available at [My Repositories](https://github.com/mburns00?tab=repositories)
 - Ask me about **IT, Cybersecurity, Networking**
 - How to reach me: **MatthewKBurns00@gmail.com**
