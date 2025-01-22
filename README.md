@@ -21,7 +21,7 @@
 - Network Engineering
 - IT Risk Management
 - Project Management
-- Technical Assistance
+- Data Visualization, Storytelling, Data Analysis - Creating visual stories of complex data to educate non-technical people about technical subjects.
 
 ### Projects
 - All of my projects are available at [My Repositories](https://github.com/mburns00?tab=repositories)
